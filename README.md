@@ -1,17 +1,19 @@
 # Stock Market prediction  and Titanic Survival Classification model
 
 **Stock Market Prediction using Machine Learning**
-Overview
+**Overview**
+
 This project predicts the stock market trends using machine learning techniques. It utilizes historical stock price data to forecast future stock prices and trends. The model is trained using past stock price data and applies data preprocessing, feature engineering, and predictive modeling techniques.
 
 **Features**
+
 ✅ Uses historical stock data for predictions
 ✅ Implements machine learning algorithms such as Linear Regression, LSTMs, or Random Forest
 ✅ Data visualization for stock trends
 ✅ Built using Python, Pandas, NumPy, Scikit-learn, Matplotlib
 ✅ Can be extended to real-time stock market predictions
 
-## Dataset
+**## Dataset**
 This project fetches **real-time stock market data** from Yahoo Finance using `yfinance`.  
 To use it, simply run the script, and the latest stock data will be downloaded automatically.
 
