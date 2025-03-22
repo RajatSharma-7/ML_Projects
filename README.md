@@ -1,1 +1,1 @@
-# ML_Projects
+# Stock Market prediction  and Titanic Survival Classification model
